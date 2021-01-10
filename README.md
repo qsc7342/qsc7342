@@ -2,8 +2,7 @@
 # ℡ : 010 - 2032 - 7342
 # 한양대학교 (ERICA) 소프트웨어학부 17학번
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/qsc7342&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qqsscc7342@gmail.com)](mailto:qqsscc7342@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/qsc7342&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://evaporation.tistory.com/)](https://evaporation.tistory.com/)
 
 <br>
@@ -22,3 +21,9 @@
 - 전국 대학생 프로그래밍 대회 (UCPC) 본선 진출 - (2020. 08)
 - 한양대학교 ERICA 알고리즘학회 '영과일' 알고리즘 대회 ZOAC 3위 (2020. 12)
 - 한양대학교 ERICA SW/ICT 종합학술대회 최우수상 (2020. 12)
+
+## Projects
+- Python Tkinter를 이용한 GUI 기반 블랙잭 게임 제작 [학부 과제 프로젝트] (17.03 ~ 17.06)
+- Chuck 프로그래밍 기반 VMPK 연동을 통한 오케스트라 합주 프로그램 제작 [학부 과제 프로젝트] (20.09 ~ 20.12)
+- React + Node.js 와 MySQL을 이용한 호텔 관리 시스템 개발 진행 [학부 과제 프로젝트] (20.09 ~ 20.12)
+- Flutter를 이용한 개인 운동 진행현황 관리 애플리케이션 개발 (21.01 ~ )
