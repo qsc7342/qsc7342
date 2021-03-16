@@ -33,5 +33,4 @@
 
 ## Studying
 - TOEIC (Goal : 900)
-- Pytorch를 이용한 이미지 분류기 학습
-- Dart
+- Socket
