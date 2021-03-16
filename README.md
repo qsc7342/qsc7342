@@ -15,7 +15,7 @@
 - (20.05 - 20.08) 한양대학교 ERICA 여름방학 또래 튜터링 C언어 기초 멘토
 - (20.09 - 20.11) 한양대학교 ERICA 알고리즘학회 '영과일' 자료구조반 멘토
 - (20.11 - ~) 한양대학교 ERICA 프로그래밍언어 연구실 학부 인턴
-- (21.03 - ~) 한양대학교 ERICA 코딩 중앙동아리 '하이코라' C/C++  
+- (21.03 - ~) 한양대학교 ERICA 코딩 중앙동아리 '하이코라' C/C++ 
 
 ## Awards
 - HEPC (Hanyang Universirt ERICA Programming Contest) MAVEN 장려상 (2018. 05)
