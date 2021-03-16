@@ -1,5 +1,4 @@
-#  Taeho Um (GPA : 4.17 / 4.50)
-# ℡ : 010 - 2032 - 7342
+#  Taeho Um
 # 한양대학교 (ERICA) 소프트웨어학부 17학번
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/qsc7342&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
