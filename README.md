@@ -28,6 +28,9 @@
 - React + Node.js 와 MySQL을 이용한 호텔 관리 시스템 개발 진행 [학부 과제 프로젝트] (20.09 ~ 20.12)
 - Code2Vec 모델과 머신러닝을 이용한 코드 클론 탐색 (21.01 ~ 21.09)
 
+## Paper
+- Code2vec을 이용한 유사도 감정 도구의 성능 개선 (http://www.i3.or.kr/html/paper/2021-1/(5)2021-1.pdf)
+
 ## Studying
 - TOEIC (Goal : 900)
 - Machine Learning
